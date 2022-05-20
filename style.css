@@ -1,0 +1,30 @@
+body
+{
+font-family: cursive;
+font-size: 30px;
+color: black;
+background :linear-gradient(rgb(228, 32, 242),rgb(3, 205, 255), white,rgb(228, 32, 242),rgb(3, 205, 255), white ) ;
+}
+
+h4
+{
+font-weight: bold;
+color: navy;
+}
+
+img
+{
+    width: 400px;
+    height: 250px;
+    border: 3px;
+   border-color: black;
+    border-width: 3px;
+    border-radius: 10px;
+    a:hover{img-size:25px};
+    
+
+    
+}
+ 
+
+
